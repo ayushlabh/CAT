@@ -1,0 +1,131 @@
+----------------------
+	Verbal and RC
+----------------------
+
+1. Reading comprehension
+
+2. Sentence Rearrangement / Para Jumbles
+
+3. Paragraph Completetion
+
+4. Paragraph Summary
+
+5. Syllogism
+
+6. Grammar and Vocabulary
+
+7. Critical reasoning
+
+
+
+
+--------------------------
+	Data Interpretation
+--------------------------
+
+1. Bar Graphs
+
+2. Combination of Graphs
+
+3. Caselet
+
+4. Data Sufficiency
+
+5. Line Graph
+
+6. Pie Chart
+
+7. Tables
+
+
+
+-------------------------
+	Logical Reasoning
+-------------------------
+
+1. Assumptions
+
+2. Blood Relations
+
+3. Binary Logic
+
+4. Clocks and Calendars
+
+5. Constraint-based puzzles
+
+6. Data Arrangement
+
+7. Family Tree
+
+8. Matching Puzzles
+
+9. Proposition
+
+10. Statements
+
+11. Seating Arrangement
+
+12. Sets
+
+13. Syllogism
+
+14. Venn Diagram
+
+15. Cubes
+
+
+
+
+------------------------------
+	Quantitative Analysis
+------------------------------
+
+1. Number System
+
+2. Percentage
+
+3. Average
+
+4. Time , Speed and distance
+
+5. Time and work
+
+6. Profit and Loss
+
+7. Simple and Compount Interest
+
+8. Ratio, Proportion and Variation
+
+9. Pipes and cistern
+
+10. Mixtures and Alligation
+
+11. Linear and quadratic equations
+
+12. Inequalities
+
+13. Logarithm
+
+14. Surds and Indices
+
+15. Functions
+
+16. Sequence and Series
+
+17. Permutation and Combination
+
+18. Probability
+
+19. Set Theory
+
+20. Geometry
+
+21. Co-ordinate geometry
+
+22. Statics
+
+23. Miscellaneous
+
+
+
+
