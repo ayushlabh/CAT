@@ -14,14 +14,17 @@ public class Dictionary {
     
 	public static void addwords() {
 		
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		words.put("static", "An fruit");
-		
+		words.put("Attenuate", "Make thin;Weaken");
+		words.put("Brevity", "Conciseness");
+		words.put("Censure", "Criticism");
+		words.put("Dissent", "Disagreement");
+		words.put("Enmity", "Ill will;Hatred");
+		words.put("Equitable", "Fair;Impartial");
+		words.put("Mitigate", "Appease;Moderate");
+		words.put("Reverence", "Deep respect");
+		words.put("Savor", "Enjoy");
+		words.put("Venerate", "Revere");
+
 		
 	}
 	
