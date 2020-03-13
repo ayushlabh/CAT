@@ -27,12 +27,22 @@
 
 ==> Types of accounts for BOP: 
 
-	- Current Account : Goods and services.
+	- Current Account : i) Goods and services.
+					   ii) Payment of loan
+					  iii) Money sent to family 	
 
 	- Capital Account : Investment 
 
 	- Financial Account : Shares 
 
+
+==> Exchange rate of curreny 
+
+-> Two types :
+
+	i) Floating exchange rate - 
+
+   ii) Fixed exchange rate
 
 ==> Mercantilism - 
 
