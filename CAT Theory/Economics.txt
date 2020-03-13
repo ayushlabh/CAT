@@ -1,51 +1,101 @@
-1. How economy is affected by imports/exports (trade surplus/deficit) ?
+1. How inflation is determined and controlled by RBI
 
-2. How much debt can a country take ?
+2. Why RBI changes interest rate and Repo rate
+
+3. How much debt can a country take ?
 	i) From where
 	ii) Under what circumstances
 
-3. How economy is affected by investments in a country
 
 4. A company established outside its home country (how much tax it has to pay and to whom) ?
 
-5. How china keep their currency devalued ?
+5. End to end flow of a product ( where components are produced and assembled ? )
 
 
+
+
+
+8. How china keep their currency devalued ?
+
+9. What are the advantages of pegging your currency ?
+
+10. Why floating exchange rates have started ? Bretton Woods Agreement .
+
+1. How economy is affected by imports/exports (trade surplus/deficit) ?
+
+3. How economy is affected by investments in a country
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+==> Exchange rate of currency 
+
+-> Two types :
+
+	i) Floating exchange rate - Value which is solely determined by the demand for and supply of the currency on the foreign exchange market.
+	
+							  - Therefore , governments can't influence the value of the currency .
+
+   ii) Fixed exchange rate - When a currency's value is fixed to other major currency .
+								
+								eg. Saudi Riyal is pegged to US dollar at 1 USD = 3.75 SR
+
+								
+								
+
+==> Foreign exchange market ( Forex ) - Value of a currency is determined by the supply and demand of the currency .
+
+-> Value varies directly with demand i.e. higher demand means higher value of the currency.
+
+-> Value varies inversely with supply i.e. higher supply means lower value of the currency .
+
+-> Demand of a countries currency increases if the country exports more coz more currency of that country is required to purchase goods .
+
+-> Supply of a countries currency increases if the country imports more coz more foreign currency is required to purchase goods and 
+   in place more rupee is supplied to forex market .
+
+	eg. (i) If India exports more to US , US need more Rupee to purchase goods from India and hence demand of Rupee will increas.
+	
+	   (ii) If India imports more from US , India need more dollar so it supplies more rupee for dollar and hence supply of rupee will increase.
+
+	   
+	   
+
+								
 ==> Balance of payment :
 
 -> Method countries use to monitor all international monetary transactions at a specific period
 
 -> Usually, the BOP is calculated every quarter and every calendar year
 
--> All trades conducted by both the private and public sectors are accounted for in the BOP
-
-
+-> All trades conducted by both the private and public sectors are accounted for in the BOP								
+								
+	   
+	   
+	   
 ==> Types of accounts for BOP: 
 
 	- Current Account : i) Goods and services.
 					   ii) Payment of loan
 					  iii) Money sent to family 	
 
-	- Capital Account : Investment 
-
-	- Financial Account : Shares 
-
-
-==> Exchange rate of curreny 
-
--> Two types :
-
-	i) Floating exchange rate - 
-
-   ii) Fixed exchange rate
-
-==> Mercantilism - 
+	- Capital Account/Financial Account : Country owned assets abroad 
+	
+										   eg.i) US-citizen purchasing home in India.
+											 ii) Indian purchasing stock of American company IBM .
 
 
 
-==> Neoliberalism - 
+											 
+==> On what factors inflation depends and how RBI controls it
+	-> Why RBI cut or increase tax rates and repo rates 
+
+   
+==>(1) Where and how much tax MNCs pay 
+   (2) How , where and why are components manufactured and product assembled
+   
+   
+   
+   
