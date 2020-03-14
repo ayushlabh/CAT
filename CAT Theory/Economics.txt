@@ -88,6 +88,17 @@
 
 
 
+==> 
+
+	i) Repo rate (Repurchase rate) - Rate at which banks can lend money from RBI
+
+	-> When central bank increases repo rate , banks have to pay more interest for borrowing money from RBI and hence they increase interest rates
+  	   of customer loans .
+
+  	-> RBI governor over a Monetary Policy Committee meeting decides the repo rate
+
+  ii) Reverse repo rate - Rate at which RBI borrows money from banks
+
 											 
 ==> On what factors inflation depends and how RBI controls it
 	-> Why RBI cut or increase tax rates and repo rates 
@@ -97,5 +108,6 @@
    (2) How , where and why are components manufactured and product assembled
    
    
-   
+
+==> Transfer pricing
    
